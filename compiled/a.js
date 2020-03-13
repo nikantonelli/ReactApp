@@ -1,1 +1,0 @@
-function launchReactApp(){ReactDOM.render(React.createElement("h1",null,"Hello, world!"),document.getElementsByClassName("rally-app")[0])}function returnA(){return 0}
