@@ -1,0 +1,17 @@
+{
+    "name": "ReactJSX",
+    "className": "Niks.Apps.CustomApp",
+    "server": "https://rally1.rallydev.com",
+    "sdk": "2.1",
+    "javascript": [
+        "App.js",
+        "libraries/react.js",
+        "libraries/react-dom.js"
+    ],
+    "css": [
+        "app.css"
+    ],
+    "jsx": [
+        "app.jsx"
+    ]
+}
