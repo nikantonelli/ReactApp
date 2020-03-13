@@ -7,6 +7,7 @@
         componentCls: 'app',
         listeners: {
             afterrender: function() {
+                debugger;
                 launchReactApp();       //Provide this function in a file you include in the build
             }
         },

@@ -4,14 +4,17 @@
     "server": "https://rally1.rallydev.com",
     "sdk": "2.1",
     "javascript": [
-        "App.js",
-        "libraries/react.js",
-        "libraries/react-dom.js"
+        "App.js"
     ],
     "css": [
         "app.css"
     ],
     "jsx": [
-        "app.jsx"
+        "reactApp.js"
+    ],
+    "libraries" : [
+        "libraries/react.js",
+        "libraries/react-dom.js",
+        "libraries/babel.js"
     ]
 }
